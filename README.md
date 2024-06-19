@@ -2,6 +2,9 @@
 
 This project demonstrates the use of .NET Core 7.0 MVC with Elasticsearch and Tailwind CSS. The application is designed to handle large datasets efficiently, specifically working with over 1 million records. It also includes a separate application for seeding data into Elasticsearch.
 
+![Ekran Resmi 2024-06-20 02 54 36](https://github.com/enesscigdem/ElasticSearch-NetCoreApp/assets/55703841/112be522-d158-445c-b2ed-cb605638d622)
+![Ekran Resmi 2024-06-20 02 56 12](https://github.com/enesscigdem/ElasticSearch-NetCoreApp/assets/55703841/6588bd3c-d043-459d-8a7d-bdbc26fc2efa)
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
