@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JlTO6AoAEtLgaQellT1KE63gkwJ8uiMphdJ5B39tZSg=",
+  "Hash": "wSINi+SQ7d0ZvGJqoOIQYbS+2lqG+qlva4iitpAcIxU=",
   "Source": "MyElasticApp",
   "BasePath": "_content/MyElasticApp",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/bundle/MyElasticApp.styles.css",
-      "SourceId": "MyElasticApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/bundle/",
-      "BasePath": "_content/MyElasticApp",
-      "RelativePath": "MyElasticApp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/bundle/MyElasticApp.styles.css"
-    },
-    {
-      "Identity": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/projectbundle/MyElasticApp.bundle.scp.css",
-      "SourceId": "MyElasticApp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/projectbundle/",
-      "BasePath": "_content/MyElasticApp",
-      "RelativePath": "MyElasticApp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/projectbundle/MyElasticApp.bundle.scp.css"
-    },
     {
       "Identity": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/wwwroot/css/site.css",
       "SourceId": "MyElasticApp",

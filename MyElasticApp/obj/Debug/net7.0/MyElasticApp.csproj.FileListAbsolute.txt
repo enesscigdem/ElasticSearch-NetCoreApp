@@ -25,9 +25,7 @@
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/staticwebassets.build.json
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/staticwebassets.development.json
-/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/bundle/MyElasticApp.styles.css
-/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/projectbundle/MyElasticApp.bundle.scp.css
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/MyElasticApp.csproj.CopyComplete
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/MyElasticApp.dll
 /Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/refint/MyElasticApp.dll

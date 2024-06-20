@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/obj/Debug/net7.0/scopedcss/projectbundle/MyElasticApp.bundle.scp.css",
-      "PackagePath": "staticwebassets/MyElasticApp.bundle.scp.css"
-    },
-    {
       "Id": "/Users/enescigdem/RiderProjects/MyElasticApp/MyElasticApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
